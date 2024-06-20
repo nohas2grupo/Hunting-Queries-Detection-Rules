@@ -80,5 +80,3 @@ DeviceFileEvents
      InitiatingProcessAccountName
 ```
 
-
-
